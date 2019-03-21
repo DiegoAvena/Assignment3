@@ -3,4 +3,6 @@ Checks if each opening delimiter matches each closing delimiter in a source code
 
 References:
 
-For the idea on how to potentially use a stack to perform delimiter checking, I used pages 204-205 of Data Structures and Algorithms, second edition, by Michal T. Goodrich, Roberto Tamassia, and David Mount. 
+1.) For the idea on how to potentially use a stack to perform delimiter checking, I used pages 204-205 of Data Structures and Algorithms, second edition, by Michal T. Goodrich, Roberto Tamassia, and David Mount. 
+
+2.) For info on eof(), I used for info on eof, I used: https://stackoverflow.com/questions/47572104/how-to-know-if-next-getline-is-eof-c?rq=1 and http://www.cplusplus.com/reference/istream/istream/getline/
