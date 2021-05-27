@@ -1,4 +1,9 @@
 # Basic Syntax Checker
+
+![BasicSyntaxChecker](https://user-images.githubusercontent.com/43594702/119758283-23fcbf00-be5b-11eb-9a76-890e53e51da8.png)
+
+[See it in action!](https://www.youtube.com/watch?v=qK8t-eQF7cA)
+
 Checks if each opening delimiter matches each closing delimiter in a source code file written in any language. If a mistake is detected, the potential line numbers, along with the cause of the mistake, are printed out to the user, and the program exits for them to correct that error. Only 1 error is printed out to the user per run of this program.
 
 References:
